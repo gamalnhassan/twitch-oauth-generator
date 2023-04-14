@@ -21,8 +21,7 @@ function Generate() {
   }
   
 function openLink() {
-    //window.open("https://id.twitch.tv/oauth2/authorize?client_id=m3hlcp8pagcicmu1w0kc9cgjgffvvw&redirect_uri=https%3A%2F%2Ftwitch.gnh.dev%2Fcompleted%2F&response_type=token&scope=chat:read+chat:edit+channel:moderate+whispers:read+whispers:edit+channel_editor","_self");
-    window.open("https://id.twitch.tv/oauth2/authorize?client_id=m3hlcp8pagcicmu1w0kc9cgjgffvvw&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fcompleted%2F&response_type=token&scope=chat:read+chat:edit+channel:moderate+whispers:read+whispers:edit+channel_editor","_self");
+    window.open("https://id.twitch.tv/oauth2/authorize?client_id=m3hlcp8pagcicmu1w0kc9cgjgffvvw&redirect_uri=https%3A%2F%2Ftwitch.gnh.dev%2Fcompleted%2F&response_type=token&scope=chat:read+chat:edit+channel:moderate+whispers:read+whispers:edit+channel_editor","_self");
 }
 
 export default Generate;
