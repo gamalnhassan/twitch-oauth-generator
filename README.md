@@ -19,7 +19,7 @@ This Twitch OAuth Token Generator is provided as-is and without warranty or guar
 
 ## Disclaimer
 
-Please note that by generating an OAuth token using our tool, you are granting our Twitch App permission to access your Twitch account. Be sure to keep your token secure and only grant access to trusted applications. We do not take
+Please note that by generating an OAuth token using our tool, you are granting our Twitch App permission to access your Twitch account. Be sure to keep your token secure and only grant access to trusted applications. We do not take responsibility for any damages, loss of data, or other issues that may arise from the use of our tool. By using our tool, you agree to hold us harmless from any and all liability related to your use of the tool.
 
 ## Contact
 
